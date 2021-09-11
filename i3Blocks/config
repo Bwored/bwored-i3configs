@@ -1,0 +1,6 @@
+[BATTERY]
+command=python3 ~/Personal/i3Scripts/battery.py
+interval=5
+[TIME]
+command=date +"%H:%M"
+interval=5

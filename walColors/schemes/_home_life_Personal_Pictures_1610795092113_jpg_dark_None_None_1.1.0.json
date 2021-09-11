@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/life/Personal/Pictures/1610795092113.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1A2B",
+        "foreground": "#e2ecf2",
+        "cursor": "#e2ecf2"
+    },
+    "colors": {
+        "color0": "#0E1A2B",
+        "color1": "#21709B",
+        "color2": "#506E8B",
+        "color3": "#47A2B6",
+        "color4": "#BCB4A3",
+        "color5": "#E3CAA8",
+        "color6": "#F2D6B0",
+        "color7": "#e2ecf2",
+        "color8": "#9ea5a9",
+        "color9": "#21709B",
+        "color10": "#506E8B",
+        "color11": "#47A2B6",
+        "color12": "#BCB4A3",
+        "color13": "#E3CAA8",
+        "color14": "#F2D6B0",
+        "color15": "#e2ecf2"
+    }
+}
